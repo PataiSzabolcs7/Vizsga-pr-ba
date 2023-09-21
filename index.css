@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logonavbar1{
+    margin-top: -50px; 
+    margin-left: -60px;
+}
+.navbarsmargin{
+    margin-bottom: 0px;
+}
+.overview1{
+    background-color: blue;
+    
+
+}
+.overviewimg{
+    min-height: 600px;
+    width: 100%;
+    margin-top: -150px;
+} 
